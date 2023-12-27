@@ -8,6 +8,7 @@
 - [ ] New feature
 - [ ] Documentation
 - [ ] Breaking change
+- [ ] Tests
 - [ ] Other
 
 ## Request Description
@@ -16,6 +17,6 @@
 
 <!-- Add links to related issues, e.g. Fixes #number, Resolves #number, Closes #number etc. -->
 
-<!-- ## Additional Details -->
+## Additional Details
 
 <!-- Provide additional information if necessary. Otherwise, feel free to skip this section. -->
