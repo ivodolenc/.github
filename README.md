@@ -1,11 +1,9 @@
 # .github
 
-Default health files for the [@ivodolenc](https://github.com/ivodolenc) profile.
+Default health files for [@ivodolenc](https://github.com/ivodolenc) profile.
 
 ## License
 
-Developed in 🇭🇷 Croatia
+Developed in 🇭🇷 Croatia, © Ivo Dolenc.
 
 Released under the [MIT](LICENSE.txt) license.
-
-© Ivo Dolenc
