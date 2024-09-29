@@ -4,11 +4,13 @@
 
 <!-- Check the boxes with an 'x' that refers to your changes. -->
 
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Documentation
 - [ ] Breaking change
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Types
+- [ ] Refactoring Code
 - [ ] Tests
+- [ ] Documentation
 - [ ] Other
 
 ## Request Description
