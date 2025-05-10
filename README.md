@@ -1,6 +1,8 @@
-# .github
+<h1 align="center">.github</h1>
 
-Default community health files for [@ivodolenc](https://github.com/ivodolenc) profile.
+<p align="center">Ivo's community health files.</p>
+
+<br>
 
 ## License
 
