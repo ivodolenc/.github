@@ -1,6 +1,6 @@
 <h1 align="center">.github</h1>
 
-<p align="center">Ivo's community health files.</p>
+<p align="center">Community health files.</p>
 
 <br>
 
